@@ -1,0 +1,26 @@
+{
+  "name": "vibrant-veil-validator",
+  "version": "0.0.3",
+  "description": "A versatile input validator with complex logic contained within a single file.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peersexaltacion/vibrant-veil-validator"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validate",
+    "validator",
+    "input",
+    "check"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "console": "^0.7.2",
+    "polyfills": "^2.1.1",
+    "js-cookie": "^3.0.5"
+  }
+}
